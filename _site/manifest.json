@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "Juliana's blog",
+  "short_name": "Juliana'sblog",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
